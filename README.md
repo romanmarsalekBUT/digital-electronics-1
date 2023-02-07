@@ -4,5 +4,5 @@
 
 
 ## dalsi podnadpis
-* kurzivou text*
+*kurzivou text*
 **jeste jedno**
